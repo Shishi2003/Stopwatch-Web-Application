@@ -37,7 +37,7 @@ The stopwatch web application allows users to accurately measure and record time
 ---
 
 ## 🌐 Live Demo
-https://shishi2003.github.io/SCT_WD_02/
+ https://shishi2003.github.io/Stopwatch-Web-Application/
 
 ---
 
